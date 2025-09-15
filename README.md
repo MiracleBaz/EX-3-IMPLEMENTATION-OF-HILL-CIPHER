@@ -94,5 +94,8 @@ int main()
 }
 ```
 ## OUTPUT:
+<img width="747" height="349" alt="Screenshot 2025-09-15 123421" src="https://github.com/user-attachments/assets/188a05d5-7f27-4025-848e-9c7687e5536f" />
 
 ## RESULT:
+The program implementing the Hill cipher for encryption and decryption has been successfully
+executed, and the results have been verified.
